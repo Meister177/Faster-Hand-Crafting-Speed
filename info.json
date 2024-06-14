@@ -1,0 +1,10 @@
+{
+    "name": "faster-hand-crafting-speed",
+    "version": "0.1.1",
+    "title": "Faster Hand Crafting Speed",
+    "author": "Meister177",
+    "homepage": "https://steamcommunity.com/id/meister177/",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Makes the hand crafting speed configurables."
+  }
